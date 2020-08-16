@@ -2,24 +2,24 @@
 
 1. Typing Spped Caluculator App using React
 
-LiveDemo    :https://ganeshmadapati.github.io/TypingSpeedTracker/
+LiveDemo    :https://ganeshmandapati.github.io/TypingSpeedTracker/
 
-Github Link  :https://github.com/GaneshMadapati/TypingSpeedTracker
+Github Link  :https://github.com/GaneshMandapati/TypingSpeedTracker
 
 2. Food Search App using React Hooks
 
-LiveDemo     :https://ganeshmadapati.github.io/ReactFoodSearchApp/
+LiveDemo     :https://ganeshmandapati.github.io/ReactFoodSearchApp/
 
-Github Link  :https://github.com/GaneshMadapati/ReactFoodSearchApp
+Github Link  :https://github.com/GaneshMandapati/ReactFoodSearchApp
 
 3. Quiz App using React
 
-LiveDemo:https://ganeshmadapati.github.io/ReactQuiz/
+LiveDemo:https://ganeshmandapati.github.io/ReactQuiz/
 
-GithubLink:https://github.com/GaneshMadapati/ReactQuiz
-
-
+GithubLink:https://github.com/GaneshMandapati/ReactQuiz
 
 
-GithubProfile:https://github.com/GaneshMadapati
+
+
+GithubProfile:https://github.com/GaneshMandapati
 
