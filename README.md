@@ -1,6 +1,6 @@
 # My React js Projects
 
-1. Typing Spped Caluculator App using React
+1. Typing Speed Caluculator App using React
 
 LiveDemo    :https://ganeshmandapati.github.io/TypingSpeedTracker/
 
